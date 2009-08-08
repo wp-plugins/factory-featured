@@ -1,20 +1,23 @@
 === Featured Factory ===
-Contributors: David Knight
+Contributors: Factory42
 Donate link: http://www.factory42.co.uk/factory-feature-wordpress-plugin
-Tags: Loop, Featured, Gallery, Images, custom-field, category, custom-image
+Tags: Loop, Featured, gallery, images, photo, media, image, admin, links, permalinks, photoblog, pics, custom-field, category, custom-image
 Requires at least: 2.0.2
 Tested up to: 2.8
-Stable tag: 1.0
+Stable tag: 1.1
 
 Displays a set amount of posts in block with custom field images. Configurable from the Widgets panel.
 
 
 == Description ==
-Factory Featured Plugin will display a set amount of posts in a loop with a custom field image and links to that post. Has configurable settings, such as;
+Factory Featured Plugin displays a set amount of posts in a loop with a custom field image and links to that post, making a gallery of images linked to the posts.
+
+Has configurable settings, such as;
 * Image Width and Height
 * Set the category to pull posts from
 * Set the amount of posts to show.
-Nice and easy way to present a certain category of posts in a widget area.
+
+Nice and easy way to present a certain category of posts in a widget area. Have a look at the Sceenshots to get a better idea of what it looks like.
 
 
 == Installation ==
@@ -31,20 +34,27 @@ Nice and easy way to present a certain category of posts in a widget area.
 
 == Frequently Asked Questions ==
 
-=Can it be used with any theme?=
+Can it be used with any theme?
 Yes, works will all themes we have tried. If you find problems please contact us.
 
-=Can we give the borders images, margins and general CSS?=
+Can we give the borders images, margins and general CSS?
 Yes, the images have a class of “ff-image” so just add that class to your style sheet and you can add whatever you wish?
 
-=Can we style the links?=
+Can we style the links?
 Yes, they have a class of ff-link, so just add that to your style sheet and add what you want.
 
+
+
 == Screenshots ==
-1.	How Factory Featured looks on your blog ready to go!
-2.	Screenshot of the admin panel for the Plugin.
+1.	How Factory Featured looks on your blog ready to go!`/tags/4.3/screenshot-1.png`
+2.	Screenshot of the admin panel for the Plugin. `/tags/4.3/screenshot-1.png`
 
 
 == Changelog==
-Version 1.0	Initial release
+
+= 1.1 =
+Fixed Screenshot issue.
+
+= 1.0 =
+Initial release
 
