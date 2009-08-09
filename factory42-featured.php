@@ -3,7 +3,7 @@
 Plugin Name:  factory-featured
 Plugin URI:   http://www.factory42.co.uk/
 Description:  Nice simple Widget that shows the latest 5 (or more) stories from a set category with linked titles and linked custom field images. 
-Version:      0.1
+Version:      1.2
 Author:       David Knight (david@Factory42.co.uk)
 Author URI:   http://www.factory42.co.uk	
 */
@@ -63,8 +63,6 @@ dl.ffbox {
 </div>
 
 
-<?php foreach($check as $value){ ?>
-       <?php } ?>
        <?php echo $after_widget; 
 }
 function f42_factory_featured_control($widget_args) {
