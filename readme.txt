@@ -4,7 +4,7 @@ Donate link: http://www.factory42.co.uk/factory-feature-wordpress-plugin
 Tags: Loop, Featured, gallery, images, photo, media, image, admin, links, permalinks, photoblog, pics, custom-field, category, custom-image
 Requires at least: 2.0.2
 Tested up to: 2.8
-Stable tag: 1.1
+Stable tag: 1.2
 
 Displays a set amount of posts in block with custom field images. Configurable from the Widgets panel.
 
@@ -51,6 +51,9 @@ Yes, they have a class of ff-link, so just add that to your style sheet and add 
 
 
 == Changelog==
+
+= 1.2 =
+Fixed SQL Error.Doh!
 
 = 1.1 =
 Fixed Screenshot issue.
